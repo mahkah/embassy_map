@@ -3,4 +3,4 @@ An interactive map of the embassies and diplomatic missions of DC. Data was scra
 
 ## [View map here](https://mahkah.github.io/embassy_map/)
 
-<iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://rawgit.com/mahkah/embassy_map/master/embassy.html"></iframe>
+<iframe width="650" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://rawgit.com/mahkah/embassy_map/master/embassy.html"></iframe>
